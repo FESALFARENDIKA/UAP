@@ -28,6 +28,6 @@ permasalahan diselesaikan, perubahan kode yang disetujui diintegrasikan ke dalam
 basis kode utama, biasanya menggunakan sistem kontrol versi.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+(2024) Program ini dibuat dalam penyelesaian tugas mata kuliah program lanjut, dan dipublikasikan untuk bebas studi.
 
 Simpan dan tutup file README.md
